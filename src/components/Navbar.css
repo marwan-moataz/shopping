@@ -1,0 +1,26 @@
+
+Nav {
+    font-size: 25px;
+}
+.links{
+    margin-right: 10px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+.links:hover {
+    background-color: #ccc8c6;
+}
+.logo {
+    font-style: italic;
+    color: midnightblue;
+    margin-left: -190px;
+}
+@media screen and (max-width: 770px) {
+    .logo {
+        display: none;
+    }
+}

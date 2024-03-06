@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name" : "Jeans",
+        "price" : 15.99,
+        "imgUrl" : "/imgs/jeans.jpg"
+    },
+    {
+        "id": 2,
+        "name" : "skirt",
+        "price" : 15.99,
+        "imgUrl" : "/imgs/skirt.jpg"
+    },
+    {
+        "id": 3,
+        "name" : "tshirt",
+        "price" : 15.99,
+        "imgUrl" : "/imgs/tshirt.jpg"
+    },
+    {
+        "id": 4,
+        "name" : "shoes",
+        "price" : 15.99,
+        "imgUrl" : "/imgs/shoes.jpg"
+    },
+    {
+        "id": 5,
+        "name" : "shoes",
+        "price" : 15.99,
+        "imgUrl" : "/imgs/shoes.jpg"
+    },
+    {
+        "id": 6,
+        "name" : "shoes",
+        "price" : 15.99,
+        "imgUrl" : "/imgs/shoes.jpg"
+    },
+    {
+        "id": 7,
+        "name" : "shoes",
+        "price" : 15.99,
+        "imgUrl" : "/imgs/shoes.jpg"
+    },
+    {
+        "id": 8,
+        "name" : "shoes",
+        "price" : 15.99,
+        "imgUrl" : "/imgs/shoes.jpg"
+    }
+]
